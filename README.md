@@ -17,8 +17,8 @@ Greetings, world! I'm Shekhar Mishra, a Mechanical Engineering graduate from S.B
 ## 🌐 Web Presence
 
 - **Portfolio:** [Virus1260 Portfolio](https://virus1260.vercel.app/) - Explore my projects and the world through my lens.
-- **LinkedIn:** [Shekhar Mishra on LinkedIn](www.linkedin.com/in/virus1260) - Let's connect professionally and explore opportunities.
-- **Twitter:** [Virus1260 on Twitter](https://twitter.com/virus1260) - Join the conversation and stay updated on my latest adventures.
+- **LinkedIn:** [Shekhar Mishra on LinkedIn](https://www.linkedin.com/in/virus1260) - Let's connect professionally and explore opportunities.
+- **Twitter:** [Virus1260 on Twitter](https://twitter.com/virus12601) - Join the conversation and stay updated on my latest adventures.
 - **Instagram:** [Finding My Way on Instagram](https://www.instagram.com/virus.1260/) - A visual journey of finding my way through life.
 
 ## 🚀 Experience
